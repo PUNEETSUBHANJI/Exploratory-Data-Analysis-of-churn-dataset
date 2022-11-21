@@ -48,7 +48,7 @@
 
 * The objective was to anticipate the factors behind the customer churn from service of the telecom .
 
-* Exploratory Data Analysis is done on the dataset to get the insights from the information however the principal invalid qualities are taken care of. Likewise, some data comparison and descriptive was additionally performed from the experiences from EDA.
+* Exploratory Data Analysis is done on the dataset to get the insights from the information however the principal invalid qualities are taken care of. Likewise, some data comparison and descriptive was additionally performed from the experiences from Exploratory Data Analysis.
 
 * After that using the Data visualisation analyzed the relationship between different variables with respect to Target variable to obtain and understand various factors. 
 
